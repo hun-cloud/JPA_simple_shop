@@ -1,2 +1,2 @@
-# Spring-boot-jpa-Best-Practices
-스프링 부트 JPA 모범 사례 학습
+# JPA Simple Shop
+- 순수 JPA를 사용하여 간단하게 회원 가입, 상품 추가, 주문 로직 구현
